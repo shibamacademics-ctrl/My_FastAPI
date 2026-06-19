@@ -5,7 +5,8 @@
     "gender": "Male",
     "weight_kg": 72,
     "height_cm": 175,
-    "bmi": 23.5
+    "bmi": 23.5,
+    "patient_id": "P001"
   },
   {
     "patient_name": "Jane Smith",
@@ -13,7 +14,8 @@
     "gender": "Female",
     "weight_kg": 60,
     "height_cm": 165,
-    "bmi": 22.0
+    "bmi": 22.0,
+    "patient_id": "P002"
   },
   {
     "patient_name": "Rahul Sharma",
@@ -21,7 +23,8 @@
     "gender": "Male",
     "weight_kg": 78,
     "height_cm": 180,
-    "bmi": 24.1
+    "bmi": 24.1,
+    "patient_id": "P003"
   },
   {
     "patient_name": "Priya Verma",
@@ -29,7 +32,8 @@
     "gender": "Female",
     "weight_kg": 55,
     "height_cm": 160,
-    "bmi": 21.5
+    "bmi": 21.5,
+    "patient_id": "P004"
   },
   {
     "patient_name": "Amit Patel",
@@ -37,7 +41,8 @@
     "gender": "Male",
     "weight_kg": 85,
     "height_cm": 178,
-    "bmi": 26.8
+    "bmi": 26.8,
+    "patient_id": "P005"
   },
   {
     "patient_name": "Neha Gupta",
@@ -45,7 +50,8 @@
     "gender": "Female",
     "weight_kg": 62,
     "height_cm": 168,
-    "bmi": 22.0
+    "bmi": 22.0,
+    "patient_id": "P006"
   },
   {
     "patient_name": "Vikram Singh",
@@ -53,7 +59,8 @@
     "gender": "Male",
     "weight_kg": 90,
     "height_cm": 182,
-    "bmi": 27.2
+    "bmi": 27.2,
+    "patient_id": "P007"
   },
   {
     "patient_name": "Anjali Mehta",
@@ -61,7 +68,8 @@
     "gender": "Female",
     "weight_kg": 58,
     "height_cm": 162,
-    "bmi": 22.1
+    "bmi": 22.1,
+    "patient_id": "P008"
   },
   {
     "patient_name": "Rohan Desai",
@@ -69,7 +77,8 @@
     "gender": "Male",
     "weight_kg": 70,
     "height_cm": 172,
-    "bmi": 23.7
+    "bmi": 23.7,
+    "patient_id": "P009"
   },
   {
     "patient_name": "Sneha Kapoor",
@@ -77,7 +86,8 @@
     "gender": "Female",
     "weight_kg": 65,
     "height_cm": 170,
-    "bmi": 22.5
+    "bmi": 22.5,
+    "patient_id": "P010"
   },
   {
     "patient_name": "Arjun Nair",
@@ -85,7 +95,8 @@
     "gender": "Male",
     "weight_kg": 74,
     "height_cm": 176,
-    "bmi": 23.9
+    "bmi": 23.9,
+    "patient_id": "P011"
   },
   {
     "patient_name": "Kavya Reddy",
@@ -93,7 +104,8 @@
     "gender": "Female",
     "weight_kg": 57,
     "height_cm": 164,
-    "bmi": 21.2
+    "bmi": 21.2,
+    "patient_id": "P012"
   },
   {
     "patient_name": "Sandeep Yadav",
@@ -101,7 +113,8 @@
     "gender": "Male",
     "weight_kg": 82,
     "height_cm": 177,
-    "bmi": 26.2
+    "bmi": 26.2,
+    "patient_id": "P013"
   },
   {
     "patient_name": "Pooja Joshi",
@@ -109,7 +122,8 @@
     "gender": "Female",
     "weight_kg": 54,
     "height_cm": 158,
-    "bmi": 21.6
+    "bmi": 21.6,
+    "patient_id": "P014"
   },
   {
     "patient_name": "Manish Kumar",
@@ -117,7 +131,8 @@
     "gender": "Male",
     "weight_kg": 88,
     "height_cm": 181,
-    "bmi": 26.9
+    "bmi": 26.9,
+    "patient_id": "P015"
   },
   {
     "patient_name": "Divya Shah",
@@ -125,7 +140,8 @@
     "gender": "Female",
     "weight_kg": 61,
     "height_cm": 167,
-    "bmi": 21.9
+    "bmi": 21.9,
+    "patient_id": "P016"
   },
   {
     "patient_name": "Karan Malhotra",
@@ -133,7 +149,8 @@
     "gender": "Male",
     "weight_kg": 76,
     "height_cm": 174,
-    "bmi": 25.1
+    "bmi": 25.1,
+    "patient_id": "P017"
   },
   {
     "patient_name": "Meera Iyer",
@@ -141,7 +158,8 @@
     "gender": "Female",
     "weight_kg": 59,
     "height_cm": 163,
-    "bmi": 22.2
+    "bmi": 22.2,
+    "patient_id": "P018"
   },
   {
     "patient_name": "Aditya Rao",
@@ -149,7 +167,8 @@
     "gender": "Male",
     "weight_kg": 80,
     "height_cm": 179,
-    "bmi": 25.0
+    "bmi": 25.0,
+    "patient_id": "P019"
   },
   {
     "patient_name": "Nisha Arora",
@@ -157,6 +176,7 @@
     "gender": "Female",
     "weight_kg": 63,
     "height_cm": 166,
-    "bmi": 22.9
+    "bmi": 22.9,
+    "patient_id": "P020"
   }
 ]
